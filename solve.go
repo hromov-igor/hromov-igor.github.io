@@ -1,6 +1,5 @@
 package main
 
-import "fmt"
 
 func RemoveEven(input []int) []int {
 	res := []int{}
